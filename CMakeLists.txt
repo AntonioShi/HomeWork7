@@ -3,5 +3,5 @@ project(HomeWork7)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp main7-2.cpp)
+set(SOURCE_FILES main7_1.cpp main7-2.cpp)
 add_executable(HomeWork7 ${SOURCE_FILES})
